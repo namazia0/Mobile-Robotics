@@ -15,6 +15,6 @@ Worked on multiple projects involving a mobile robot (iRobot Roomba) using C++ a
 - Explored how to identify objects with a camera on a mobile robot using OpenCV (e.g. identifying blue objects).
 
 
-Additionally, I worked with tools like RViz, and Gazebo.
+Additionally, I worked with tools like RViz and Gazebo.
 
 Another project within this course focused on [Person Detection](https://github.com/namazia0/Person-Detection).
